@@ -1,0 +1,18 @@
+body{
+	display: flex;
+	justify-content: center;
+    background-color: rgb(36, 36, 36);
+}
+
+#canvas{
+    border: 1px solid white;
+}
+
+#sliderText{
+	margin-left: 10px;
+	color:white;
+}
+
+.slider{
+	margin-left: 10px;
+}
